@@ -1,0 +1,6 @@
+results/
+__pycache__/
+*.pyc
+tutte_mcm
+tutte_mcm_d
+.venv/
